@@ -19,7 +19,6 @@ vendor/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -29,8 +28,6 @@ vendor/
 Thumbs.db
 
 # Environment files
-.env
-.env.local
 .env.*.local
 
 # Logs
@@ -56,3 +53,5 @@ data/
 go.work
 go.work.sum
 
+config.bat
+node_modules
